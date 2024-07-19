@@ -8,4 +8,4 @@ Some info in [public](https://genukraine.notion.site/43774de3ea2a44fc8dd420c3ba6
 Here is a description of the last three grants we received from the Danish CISU Foundation
 1. BeForce 
 2. Level up 
-3. Wisel
+3. [Wisel](https://genukraine.com.ua/index.php/en/gen-ukraine/reports/winter-support-impact-report-wisel)
