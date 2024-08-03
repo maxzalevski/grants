@@ -12,3 +12,10 @@ Here is a description of the last three grants we received from the Danish CISU 
 4. [Green Road](https://genukraine.com.ua/index.php/en/gen-ukraine/reports/impact-report-the-green-road-project)
 5. [Launch and Thrive](https://genukraine.com.ua/index.php/en/gen-ukraine/reports/launch-and-thrive-impact-report)
 
+## Gitcoin Grants
+
+- [List of Our Mistakes in Implementing the First Round of Gitcoin Grant:](https://github.com/maxzalevski/grants/issues/1)
+- [Report on GG20 Fundraising Round for the "Rewilding for Ecovillages in Ukraine" Project](https://genukraine.com.ua/index.php/en/gen-ukraine/reports/report-on-gg20-fundraising-round-for-the-rewilding-for-ecovillages-in-ukraine-project)
+
+## Giveth Grants
+
